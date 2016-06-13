@@ -1,0 +1,5 @@
+set ftps:initial-prot "";
+set ftp:ssl-force true;
+set ftp:ssl-protect-data true;
+open ftps://ftp.docfly.it:990
+user pointecsrl Silvio100Recion
